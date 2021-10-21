@@ -7,6 +7,13 @@ a {
 	color: #333;
 }
 
+.btn {
+	background: #333;
+	color: #fff;
+	padding: 0.8rem 1.5rem;
+	margin: 1rem 0;
+}
+
 .active-nav {
 	background-color: yellow;
 	z-index: 2;

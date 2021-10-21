@@ -26,16 +26,6 @@ const useStyles = makeStyles({
 		background: '#333',
 		color: '#fff'
 	},
-	appBar: {
-		width: `calc(100% - ${drawerWidth}px)`,
-		marginLeft: drawerWidth
-	},
-	date: {
-		flexGrow: 1
-	},
-	avatar: {
-		marginLeft: '1rem'
-	},
 	listItem: {
 		borderBottom: '1px solid #adadad'
 	}
