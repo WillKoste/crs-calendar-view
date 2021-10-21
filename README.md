@@ -1,4 +1,4 @@
-#CRS Calendar Preview
+# CRS Calendar Preview
 
 This React app was created using `create-react-app` and includes these additional dependencies:
 
